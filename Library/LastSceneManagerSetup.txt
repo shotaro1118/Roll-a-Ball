@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/GoogleVR/unity project2.unity
+  isLoaded: 1
+  isActive: 1
