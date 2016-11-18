@@ -23,7 +23,7 @@ public class gravity : MonoBehaviour {
 		move *= speed;
 		move.y = y;
 
-		if (transform.position.y > 310.0f&& transform.position.y < 800.0f) {
+		if (transform.position.y > 310.0f&& transform.position.y < 1100.0f) {
 			move.y = -80;
 			move.y += 0.5f;
 		} 
